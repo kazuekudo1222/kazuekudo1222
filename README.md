@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kazue</h1>
-<h3 align="center">A enthusiastic data analyst in the Netherlands 🫶 </h3>
+<h3 align="center">An enthusiastic data analyst in the Netherlands 🫶 </h3>
 
 A data-lover with a strong marketing background from the East side of the world. Python, SQL, and R are my communication languages 🦾
 
