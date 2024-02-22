@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Kazue
 **``An enthusiastic data analyst in the Netherlands 🫶``**
 
-A data-lover with a strong marketing background. Python, SQL, and R are my communication languages 🦾
+A data-lover with a strong marketing background (PR, Ads, and Global Marketing). Python, SQL, and R are my communication languages 🦾
 Graduated with an MSc in Marketing Analytics and Data Science from the University of Groningen + Completed Data Analytics Bootcamp at Le Wagon 🧑‍🎓 
 
 #
