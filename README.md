@@ -2,7 +2,7 @@
 **``An enthusiastic data analyst in the Netherlands 🫶``**
 
 A data-lover with a strong marketing background. Python, SQL, and R are my communication languages 🦾
-Graduated with an MSc in Marketing Analytics and Data Science from the University of Groningen + Completed Data Analytics Bootcamp (400 hr) at Le Wagon 🧑‍🎓 
+Graduated with an MSc in Marketing Analytics and Data Science from the University of Groningen + Completed Data Analytics Bootcamp (360 hrs) at Le Wagon 🧑‍🎓 
 
 #
 #### Connect with me:
